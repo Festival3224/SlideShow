@@ -1,4 +1,6 @@
 # app
+Dynamic & Reusable Carousel/Slider Component Using Vue 3 & Composition API, slots & props. 
+Build out with John Komarnicki's video.
 
 ## Project setup
 ```
